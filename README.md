@@ -1,5 +1,6 @@
 # auth
-
+User sign-up and sign-in operations in the project are done using firebase and nuxt.js. I made this project while learning nuxt.js. <br> <br>
+Note: Firebase config information must be entered in the firebase.js file located under the Services folder.
 ## Build Setup
 
 ```bash
